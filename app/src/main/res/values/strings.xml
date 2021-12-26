@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="nameID">::: BMI Calculator :::</string>
+    <string name="Text1">Insert your height</string>
+    <string name="Text2">Insert your weight(KG)</string>
+    <string name="Text3">cm</string>
+    <string name="Text4">inch</string>
+    <string name="Text5">Calculate BMI</string>
+    <string name="Text6">BMI is : </string>
+
+</resources>
